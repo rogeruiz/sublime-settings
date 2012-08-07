@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+# === ${1:Title}
+# @desc   ${2:Description}
+# @param  ${3:Parameters}
+# ==================================================
+]]></content>
+	<tabTrigger>@comment</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>Comment Block For CoffeeScript</description>
+</snippet>

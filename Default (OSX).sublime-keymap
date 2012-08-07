@@ -1,0 +1,4 @@
+[
+  { "keys": [""], "command": "next_bookmark" },
+  { "keys": ["f2"], "command": "expand_selection", "args": {"to": "brackets"} }
+]

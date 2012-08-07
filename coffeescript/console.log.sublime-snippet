@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.log '${1:description}', ${2:value} if console.log?
+]]></content>
+	<tabTrigger>@console</tabTrigger>
+	<scope>source.coffee</scope>
+	<description>console.log if console.log?</description>
+</snippet>

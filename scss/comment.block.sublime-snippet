@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/*=== ${1:Title}
+@desc   ${2:Description}
+==================================================*/
+]]></content>
+	<tabTrigger>@comment</tabTrigger>
+	<scope>source.scss</scope>
+	<description>Comment Block For JS and CSS</description>
+</snippet>
