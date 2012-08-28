@@ -14,8 +14,14 @@
 	"font_face": "M+ 2m light",
 	"font_size": 11.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages": ["Vintage"],
-	"rulers": [80],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
