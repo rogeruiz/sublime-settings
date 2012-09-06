@@ -1,4 +1,7 @@
 [
   { "keys": [""], "command": "next_bookmark" },
-  { "keys": ["f2"], "command": "expand_selection", "args": {"to": "brackets"} }
+  { "keys": ["f1"], "command": "expand_selection", "args": {"to": "indentation"} },
+  { "keys": ["f2"], "command": "expand_selection", "args": {"to": "brackets"} },
+  { "keys": ["f3"], "command": "fold" },
+  { "keys": ["f4"], "command": "unfold" }
 ]
