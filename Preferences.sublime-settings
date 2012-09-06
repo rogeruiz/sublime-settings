@@ -26,6 +26,7 @@
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"word_wrap": "false",
 	"wrap_width": 9001
