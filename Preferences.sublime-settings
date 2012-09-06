@@ -9,7 +9,8 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"publish"
+		"publish",
+		"build"
 	],
 	"font_face": "M+ 2m light",
 	"font_size": 11.0,
