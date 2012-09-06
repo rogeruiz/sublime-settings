@@ -1,6 +1,6 @@
 [
   { "keys": [""], "command": "next_bookmark" },
-  { "keys": ["f1"], "command": "expand_selection", "args": {"to": "indentation"} },
+  { "keys": ["f1"], "command": "expand_selection", "args": {"to": "tag"} },
   { "keys": ["f2"], "command": "expand_selection", "args": {"to": "brackets"} },
   { "keys": ["f3"], "command": "fold" },
   { "keys": ["f4"], "command": "unfold" }
