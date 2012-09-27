@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<tr>
+	<td class="category"><img src="/img/tb-activity-type/${1:activity-image}-small-icon.png" alt="${2:Activity Name} Activites"></td>
+	<td class="date">${3:Date}</td>
+	<td class="activity">
+		${4:Activity Description}
+		<!-- <a href="javascript:void(0);">${5:Activity Link}</a> -->
+	</td>
+	<td class="points">
+		${6:Points} <br>
+		${6:Points}
+	</td>
+	<td class="details">
+		Base Points<br>
+		Redemption
+	</td>
+	<td class="total"><p class="points"><span class="pre">X</span>${7:Points}</p></td>
+</tr>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>@activityrow</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
