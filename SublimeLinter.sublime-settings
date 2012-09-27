@@ -1,4 +1,6 @@
 {
-    "sublimelinter": "load-save",
-    "annotations": ["TODO", "README", "FIXME", "WTF"]
+	"sublimelinter_delay": 0.25,
+	"sublimelinter": true,
+	"sublimelinter_notes": true,
+	"annotations": ["TODO", "README", "FIXME", "WTF"]
 }
