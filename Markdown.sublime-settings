@@ -2,5 +2,7 @@
 	"extensions":
 	[
 		"mkdn"
-	]
+	],
+	"word_wrap": "true",
+	"wrap_width": 80
 }

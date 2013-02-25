@@ -9,13 +9,18 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"publish"
+		"publish",
+		".themes",
+		".pygments-cache",
+		"_deploy"
 	],
-	"font_face": "M+ 1mn regular",
-	"font_size": 14.0,
+	"font_face": "M+ 2m light",
+	"font_size": 13.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages": [],
-	"vintage_ctrl_keys": true,
+	"ignored_packages":
+	[
+		"Nodejs"
+	],
 	"rulers":
 	[
 		80
@@ -24,7 +29,8 @@
 	"tab_completion": true,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
 	"wrap_width": 9001
 }
