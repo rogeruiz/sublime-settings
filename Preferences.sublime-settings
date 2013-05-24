@@ -10,7 +10,10 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"publish"
+		"publish",
+		".themes",
+		".pygments-cache",
+		"_deploy"
 	],
 	"font_face": "M+ 1mn regular",
 	"font_size": 18.0,
