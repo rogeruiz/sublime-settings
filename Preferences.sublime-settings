@@ -1,5 +1,6 @@
 {
-	"color_scheme": "Packages/User/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/User/prospettiva.tmTheme",
+	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"fallback_encoding": "UTF-8",
 	"folder_exclude_patterns":
@@ -12,10 +13,12 @@
 		"publish"
 	],
 	"font_face": "M+ 1mn regular",
-	"font_size": 14.0,
+	"font_size": 18.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages": [],
-	"vintage_ctrl_keys": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"rulers":
 	[
 		80
@@ -23,8 +26,9 @@
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Soda Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
+	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
 	"wrap_width": 9001
 }
