@@ -1,5 +1,8 @@
 {
 	"sublimelinter": true,
 	"sublimelinter_notes": true,
-	"annotations": ["TODO", "README", "FIXME", "WTF"]
+	"annotations": ["TODO", "README", "FIXME", "WTF"],
+	"jshint_options": {
+		"laxcomma": true
+	}
 }
