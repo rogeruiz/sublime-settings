@@ -1,0 +1,29 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ApacheConf.tmLanguage",
+		"Backbone.js",
+		"CoffeeCompile",
+		"CoffeeScript",
+		"CSSFormat",
+		"Element Finder",
+		"Emmet",
+		"Gist",
+		"Git",
+		"JavaScript Snippets",
+		"jQuery Snippets pack",
+		"JsFormat",
+		"Markdown Preview",
+		"Package Control",
+		"SCSS",
+		"SCSS Snippets",
+		"SmartMarkdown",
+		"SplitScreen",
+		"sublime-split-navigation",
+		"SublimeLinter",
+		"Synchronized File Scrolling",
+		"Theme - Soda"
+	]
+}
