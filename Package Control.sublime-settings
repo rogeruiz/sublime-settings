@@ -12,6 +12,7 @@
 		"Emmet",
 		"Gist",
 		"Git",
+		"GitGutter",
 		"JavaScript Snippets",
 		"jQuery Snippets pack",
 		"JsFormat",
@@ -24,6 +25,7 @@
 		"sublime-split-navigation",
 		"SublimeLinter",
 		"Synchronized File Scrolling",
+		"Theme - Phoenix",
 		"Theme - Soda"
 	]
 }
