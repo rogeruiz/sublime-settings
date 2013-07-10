@@ -22,12 +22,13 @@
 	[],
 	"rulers":
 	[
-		40,
+		50,
+		72,
 		80
 	],
 	"scroll_past_end": true,
 	"tab_completion": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "Phoenix Light.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"vintage_ctrl_keys": true,
