@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/User/Tomorrow.tmTheme",
+	"color_scheme": "Packages/User/Solarized (Dark).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"fallback_encoding": "UTF-8",
@@ -13,12 +13,19 @@
 		"publish",
 		".themes",
 		".pygments-cache",
-		"_deploy"
+		"_deploy",
+		"bower_components",
+		"node_modules",
+		"vendor"
 	],
 	"font_face": "M+ 1mn regular",
 	"font_size": 12.0,
 	"highlight_modified_tabs": true,
-	"ignored_packages": [ "Vintage" ],
+	"ignored_packages":
+	[
+		"Vintage",
+		"SublimeLinter"
+	],
 	"rulers":
 	[
 		50,
@@ -27,9 +34,9 @@
 	],
 	"scroll_past_end": true,
 	"tab_completion": true,
-	"tab_size": 2,
-	"theme": "Phoenix Light.sublime-theme",
-	"translate_tabs_to_spaces": false,
+	"tab_size": 4,
+	"theme": "Phoenix Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
 	"wrap_width": 9001
