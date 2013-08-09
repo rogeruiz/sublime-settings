@@ -2,8 +2,8 @@
 	// Your username on GitHub
 	"username": "rogeruiz",
 
-	// Your password on GitHub
-	"password": "MI!0Je;i",
+	// Github API Token
+	"token": "3bfc927862f5edd0ff068e7bdd7d038f6fa4b74f",
 
 	// Proxy server
 	// Format: "http://user:pass@proxy:port"
