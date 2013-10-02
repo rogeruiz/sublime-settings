@@ -15,20 +15,27 @@
 		"GitGutter",
 		"Grunt",
 		"HTML Mustache",
+		"Handlebars",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
 		"jQuery Snippets pack",
 		"JsFormat",
 		"JSHint Gutter",
 		"Markdown Preview",
+		"Nodejs",
 		"Package Control",
 		"PHP-Twig",
+		"Quick File Creator",
 		"SCSS",
 		"SCSS Snippets",
 		"SmartMarkdown",
 		"SplitScreen",
+		"Sublime Files",
 		"sublime-split-navigation",
 		"sublimelint",
 		"Synchronized File Scrolling",
 		"Theme - Phoenix",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Twig"
 	]
 }
