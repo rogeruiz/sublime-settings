@@ -4,6 +4,7 @@
 		50,
 		72
 	],
-	"word_wrap": "true",
+  "spell_check": true,
+	"word_wrap": true,
 	"wrap_width": 72
 }
