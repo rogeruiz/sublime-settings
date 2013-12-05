@@ -16,7 +16,8 @@
 		"_deploy",
 		"bower_components",
 		"node_modules",
-		"vendor"
+		"vendor",
+		"tmp"
 	],
 	"font_face": "M+ 1mn regular",
 	"font_size": 11.0,
