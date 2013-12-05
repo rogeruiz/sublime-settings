@@ -1,7 +1,7 @@
 {
-	"color_scheme": "Packages/User/Solarized (Dark).tmTheme",
+	"color_scheme": "Packages/User/Solarized (Light).tmTheme",
 	"detect_slow_plugins": false,
-	"draw_white_space": "all",
+	"draw_white_space": "none",
 	"fallback_encoding": "UTF-8",
 	"folder_exclude_patterns":
 	[
@@ -20,7 +20,7 @@
 		"tmp"
 	],
 	"font_face": "M+ 1mn regular",
-	"font_size": 11.0,
+	"font_size": 18.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -35,7 +35,7 @@
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Phoenix Dark.sublime-theme",
+	"theme": "Phoenix Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
