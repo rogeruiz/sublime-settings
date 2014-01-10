@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Better CoffeeScript",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"SCSS",
+		"Search Stack Overflow",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-coffee",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-ruby",
+		"Theme - Argonaut"
+	]
+}
