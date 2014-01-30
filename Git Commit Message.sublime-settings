@@ -1,10 +1,10 @@
 {
-	"rulers":
-	[
-		50,
-		72
-	],
+  "rulers":
+  [
+    50,
+    72
+  ],
   "spell_check": true,
-	"word_wrap": true,
-	"wrap_width": 72
+  "word_wrap": true,
+  "wrap_width": 72
 }
