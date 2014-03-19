@@ -37,7 +37,10 @@
 	"tab_size": 2,
 	"theme": "Argonaut.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"auto_match_enabled": true,
 	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+	"find_selected_text": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
 	"wrap_width": 9001
