@@ -1,10 +1,12 @@
 {
+	"auto_match_enabled": true,
 	"color_scheme": "Packages/User/Solarized (Dark) (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
+	"find_selected_text": true,
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -18,10 +20,11 @@
 		"_deploy",
 		"bower_components",
 		"node_modules",
-		"tmp"
+		"tmp",
+		"build"
 	],
 	"font_face": "M+ 2m light",
-	"font_size": 12.0,
+	"font_size": 14.0,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -38,10 +41,7 @@
 	"tab_size": 2,
 	"theme": "Argonaut.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"auto_match_enabled": true,
 	"trim_trailing_white_space_on_save": true,
-	"ensure_newline_at_eof_on_save": true,
-	"find_selected_text": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
 	"wrap_width": 9001
