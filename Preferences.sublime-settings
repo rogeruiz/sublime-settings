@@ -23,13 +23,20 @@
 		"tmp",
 		"build"
 	],
-	"font_face": "M+ 2m light",
-	"font_size": 14.0,
+	"font_face": "M+ 2m medium",
+	"font_size": 16,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"paths":
+	{
+		"osx":
+		[
+			"/usr/local/bin/"
+		]
+	},
 	"rulers":
 	[
 		50,
