@@ -23,13 +23,18 @@
 		"tmp",
 		"build"
 	],
-	"font_face": "M+ 2m medium",
-	"font_size": 11,
+	"font_face": "M+ 2m light",
+	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage",
-		"JavaScript"
+		"Markdown Preview",
+		"JavaScript",
+		"SublimeLinter-contrib-scss-lint",
+		"Git",
+		"Better CoffeeScript",
+		"GitGutter"
 	],
 	"paths":
 	{
