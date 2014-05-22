@@ -28,13 +28,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Markdown Preview",
 		"JavaScript",
-		"SublimeLinter-contrib-scss-lint",
-		"Git",
-		"Better CoffeeScript",
-		"GitGutter"
+		"Vintage",
+		"SublimeLinter-contrib-scss-lint"
 	],
 	"paths":
 	{

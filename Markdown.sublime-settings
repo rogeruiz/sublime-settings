@@ -1,7 +1,7 @@
 {
 	"extensions":
 	[
-		"mkdn",
+		"markdown",
     "txt",
     "text"
 	],
