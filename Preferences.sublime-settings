@@ -1,8 +1,10 @@
 {
 	"aprosopo_active_bar": true,
 	"aprosopo_dirty_bar": true,
-	"aprosopo_light_dirty_red": true,
+	"aprosopo_light_dirty_blue": true,
 	"aprosopo_light_yellow": true,
+	"aprosopo_no_file_icons": true,
+	"aprosopo_show_tab_close_on_hover": true,
 	"aprosopo_sidebar_tree_medium": true,
 	"auto_match_enabled": true,
 	"color_scheme": "Packages/User/Tomorrow-Morning (SL).tmTheme",
