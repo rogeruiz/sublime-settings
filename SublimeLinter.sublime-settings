@@ -2,7 +2,7 @@
 	"user":
 	{
 		"debug": false,
-		"delay": 0.75,
+		"delay": 1,
 		"error_color": "dc322f",
 		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
 		"gutter_theme_excludes":
@@ -101,7 +101,8 @@
 				],
 				"excludes":
 				[
-				]
+				],
+				"strict": true
 			},
 			"ruby":
 			{

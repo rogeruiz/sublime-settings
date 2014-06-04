@@ -4,6 +4,7 @@
 		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
+		"Devastate",
 		"Emmet",
 		"Gist",
 		"Git",
@@ -16,6 +17,7 @@
 		"Markdown Preview",
 		"nginx",
 		"Origami",
+		"Predawn",
 		"Pretty JSON",
 		"Ruby Slim",
 		"SCSS",
@@ -23,6 +25,7 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-coffee",
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
@@ -30,6 +33,8 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
+		"Theme - Afterglow",
+		"Theme - Aprosopo",
 		"Theme - Argonaut"
 	]
 }
