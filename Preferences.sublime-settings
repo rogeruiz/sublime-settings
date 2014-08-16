@@ -1,13 +1,14 @@
 {
 	"aprosopo_active_bar": true,
 	"aprosopo_dirty_bar": true,
-	"aprosopo_light_dirty_blue": true,
-	"aprosopo_light_yellow": true,
+	"aprosopo_light_dirty_yellow": true,
+	"aprosopo_light_orange": true,
 	"aprosopo_no_file_icons": true,
 	"aprosopo_show_tab_close_on_hover": true,
-	"aprosopo_sidebar_tree_medium": true,
+	"aprosopo_sidebar_tree_small": true,
+	"atomic_save": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/User/Tomorrow-Morning (SL).tmTheme",
+	"color_scheme": "Packages/User/prospettiva (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
@@ -27,17 +28,14 @@
 		"_deploy",
 		"bower_components",
 		"node_modules",
-		"tmp",
-		"build"
+		"tmp"
 	],
-	"font_face": "M+ 2m regular",
+	"font_face": "InputMono-Light",
 	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"JavaScript",
-		"Vintage",
-		"SublimeLinter-contrib-scss-lint"
+		"Vintage"
 	],
 	"paths":
 	{
