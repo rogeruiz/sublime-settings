@@ -8,7 +8,7 @@
 	"aprosopo_sidebar_tree_small": true,
 	"atomic_save": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/User/prospettiva (SL).tmTheme",
+	"color_scheme": "Packages/User/Eighties Light (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
@@ -36,6 +36,11 @@
 	"ignored_packages":
 	[
 		"Vintage"
+	],
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"/Users/rruiz/cne/vidz*"
 	],
 	"paths":
 	{
