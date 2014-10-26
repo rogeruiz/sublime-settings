@@ -1,6 +1,8 @@
 {
-	"extensions":
-	[
-    ".jslintrc"
-	]
+  "extensions":
+  [
+    ".json",
+    ".jslintrc",
+    ".bowerrc"
+  ]
 }
