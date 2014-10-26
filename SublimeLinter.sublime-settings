@@ -2,7 +2,7 @@
     "user": {
         "debug": false,
         "delay": 1,
-        "error_color": "dc322f",
+        "error_color": "f2777f",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
         "lint_mode": "background",
@@ -11,12 +11,16 @@
                 "@disable": false,
                 "args": [],
                 "errors": [
+                    "WTF",
                     "FIXME"
                 ],
                 "excludes": [],
                 "warnings": [
                     "TODO",
-                    "README"
+                    "README",
+                    "YOLO",
+                    "<><",
+                    "><>"
                 ]
             },
             "coffee": {
@@ -94,7 +98,7 @@
             "php": "html",
             "python django": "python"
         },
-        "warning_color": "2aa198",
+        "warning_color": "73aad2",
         "wrap_find": true
     }
 }
