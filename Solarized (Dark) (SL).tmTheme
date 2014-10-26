@@ -2031,7 +2031,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#2aa198</string>
+                <string>#73aad2</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -2051,7 +2051,7 @@
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#dc322f</string>
+                <string>#f2777f</string>
             </dict>
         </dict></array>
 	<key>uuid</key>
