@@ -4,6 +4,7 @@
 		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
 		"Better CoffeeScript",
+		"CSS3",
 		"DashDoc",
 		"Devastate",
 		"Emmet",
@@ -12,6 +13,7 @@
 		"GitGutter",
 		"Haml",
 		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
 		"JSONLint",
 		"LESS",
 		"Markdown Preview",
@@ -26,16 +28,19 @@
 		"Solarized Color Scheme",
 		"SublimeLinter",
 		"SublimeLinter-annotations",
+		"SublimeLinter-coffee",
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-haml",
+		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-ruby",
 		"Theme - Afterglow",
 		"Theme - Aprosopo",
 		"Theme - Argonaut",
-		"Tomorrow Color Schemes"
+		"Tomorrow Color Schemes",
+		"WordCount"
 	]
 }
