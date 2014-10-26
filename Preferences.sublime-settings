@@ -30,7 +30,7 @@
 		"node_modules",
 		"tmp"
 	],
-	"font_face": "InputMono-Light",
+	"font_face": "M+ 2m Regular",
 	"font_size": 15,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
