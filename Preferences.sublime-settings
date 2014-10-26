@@ -35,7 +35,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"CSS",
+		"Better JavaScript"
 	],
 	"index_exclude_patterns":
 	[
