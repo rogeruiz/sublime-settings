@@ -10,7 +10,7 @@
 	"auto_match_enabled": true,
 	"color_scheme": "Packages/User/Eighties Light (SL).tmTheme",
 	"detect_slow_plugins": false,
-	"draw_white_space": "all",
+	"draw_white_space": false,
 	"enable_tab_scrolling": false,
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
@@ -31,7 +31,7 @@
 		"tmp"
 	],
 	"font_face": "M+ 2m Regular",
-	"font_size": 15,
+	"font_size": 22,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -41,8 +41,7 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
-		"/Users/rruiz/cne/vidz*"
+		"*.log"
 	],
 	"paths":
 	{
