@@ -41,8 +41,7 @@
 	],
 	"index_exclude_patterns":
 	[
-		"*.log",
-		"/Users/rruiz/cne/vidz*"
+		"*.log"
 	],
 	"paths":
 	{
