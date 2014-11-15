@@ -1,9 +1,15 @@
 {
-	"extensions":
-	[
-		"markdown",
+  "extensions":
+  [
+    "markdown",
     "txt",
-    "text"
-	],
-  "spell_check": true
+    "text",
+    "md",
+    "mkdn",
+    "mrkdwn",
+    "mrkdn"
+  ],
+  "spell_check": true,
+  "word_wrap": true,
+  "wrap_width": 80
 }
