@@ -5,9 +5,9 @@
     "txt",
     "text",
     "md",
-    "mkdn",
     "mrkdwn",
-    "mrkdn"
+    "mrkdn",
+    "mkdn"
   ],
   "spell_check": true,
   "word_wrap": true,
