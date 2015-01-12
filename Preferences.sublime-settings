@@ -1,14 +1,14 @@
 {
 	"aprosopo_active_bar": true,
+	"aprosopo_dark_dirty_orange": true,
+	"aprosopo_dark_green": true,
 	"aprosopo_dirty_bar": true,
-	"aprosopo_light_dirty_yellow": true,
-	"aprosopo_light_orange": true,
 	"aprosopo_no_file_icons": true,
 	"aprosopo_show_tab_close_on_hover": true,
 	"aprosopo_sidebar_tree_small": true,
 	"atomic_save": true,
 	"auto_match_enabled": true,
-	"color_scheme": "Packages/User/Eighties Light (SL).tmTheme",
+	"color_scheme": "Packages/User/Hopscotch (SL).tmTheme",
 	"detect_slow_plugins": false,
 	"draw_white_space": "all",
 	"enable_tab_scrolling": false,
@@ -28,7 +28,8 @@
 		"_deploy",
 		"bower_components",
 		"node_modules",
-		"tmp"
+		"tmp",
+		"vendor"
 	],
 	"font_face": "M+ 2m Regular",
 	"font_size": 15,
@@ -37,7 +38,8 @@
 	[
 		"Better JavaScript",
 		"CSS",
-		"Vintage"
+		"Vintage",
+		"Solarized Color Scheme"
 	],
 	"index_exclude_patterns":
 	[
@@ -60,7 +62,7 @@
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Aprosopo Light@st3.sublime-theme",
+	"theme": "Aprosopo Dark@st3.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_ctrl_keys": true,

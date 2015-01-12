@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -14,12 +22,14 @@
 		"Haml",
 		"Handlebars",
 		"Indent XML",
+		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"JSONLint",
 		"LESS",
 		"Markdown Preview",
 		"nginx",
 		"Origami",
+		"Package Control",
 		"Predawn",
 		"Pretty JSON",
 		"Ruby Slim",
