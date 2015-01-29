@@ -29,7 +29,7 @@
 		"bower_components",
 		"node_modules",
 		"tmp",
-		"vendor"
+		"bin"
 	],
 	"font_face": "M+ 2m Regular",
 	"font_size": 15,
