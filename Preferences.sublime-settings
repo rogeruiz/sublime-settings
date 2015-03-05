@@ -29,7 +29,8 @@
 		"bower_components",
 		"node_modules",
 		"tmp",
-		"bin"
+		"bin",
+		"dist"
 	],
 	"font_face": "M+ 2m Regular",
 	"font_size": 15,
@@ -37,9 +38,8 @@
 	"ignored_packages":
 	[
 		"Better JavaScript",
-		"CSS",
-		"Vintage",
-		"Solarized Color Scheme"
+		"Solarized Color Scheme",
+		"CSS"
 	],
 	"index_exclude_patterns":
 	[
