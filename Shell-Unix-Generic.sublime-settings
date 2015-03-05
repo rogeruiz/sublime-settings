@@ -3,6 +3,7 @@
 	[
 		".zshrc",
 		".aliases",
-		".variables"
+		".variables",
+		".gitignore"
 	]
 }
