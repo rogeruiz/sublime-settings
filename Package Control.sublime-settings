@@ -6,6 +6,7 @@
 	[
 		"AdvancedNewFile",
 		"ApacheConf.tmLanguage",
+		"Babel",
 		"Better CoffeeScript",
 		"CSS3",
 		"DashDoc",
@@ -17,6 +18,7 @@
 		"Haml",
 		"Handlebars",
 		"Indent XML",
+		"INI",
 		"Jade",
 		"JavaScriptNext - ES6 Syntax",
 		"JSONLint",
@@ -42,6 +44,7 @@
 		"SublimeLinter-html-tidy",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"SublimeLinter-phplint",
 		"SublimeLinter-ruby",
 		"SublimeLinter-xmllint",
 		"Theme - Afterglow",
@@ -49,6 +52,7 @@
 		"Theme - Argonaut",
 		"Tomorrow Color Schemes",
 		"WordCount",
-		"WordPress"
+		"WordPress",
+		"WordpressDev"
 	]
 }

@@ -56,7 +56,7 @@
 			},
 			"csslint":
 			{
-				"@disable": false,
+				"@disable": true,
 				"args":
 				[
 				],
@@ -107,6 +107,16 @@
 				[
 				],
 				"strict": true
+			},
+			"phplint":
+			{
+				"@disable": true,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
 			},
 			"ruby":
 			{
@@ -177,6 +187,7 @@
 			"html (django)": "html",
 			"html (rails)": "html",
 			"html 5": "html",
+			"javascript (babel)": "javascript",
 			"javascript next": "javascript",
 			"php": "html",
 			"python django": "python"

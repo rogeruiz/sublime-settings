@@ -1,11 +1,8 @@
 {
-	"aprosopo_active_bar": true,
-	"aprosopo_dark_dirty_orange": true,
-	"aprosopo_dark_green": true,
-	"aprosopo_dirty_bar": true,
-	"aprosopo_no_file_icons": true,
-	"aprosopo_show_tab_close_on_hover": true,
-	"aprosopo_sidebar_tree_small": true,
+	"tabs_small": true,
+	"status_bar_brighter": true,
+	"color_inactive_tabs": true,
+	"tabs_padding_small": true,
 	"atomic_save": true,
 	"auto_match_enabled": true,
 	"color_scheme": "Packages/User/Hopscotch (SL).tmTheme",
@@ -29,17 +26,16 @@
 		"bower_components",
 		"node_modules",
 		"tmp",
-		"bin",
 		"dist"
 	],
-	"font_face": "M+ 2m Regular",
-	"font_size": 15,
+	"font_face": "M+ 2m Light",
+	"font_size": 13,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"CSS",
 		"Better JavaScript",
-		"Solarized Color Scheme",
-		"CSS"
+		"Solarized Color Scheme"
 	],
 	"index_exclude_patterns":
 	[
@@ -62,7 +58,7 @@
 	"scroll_past_end": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Aprosopo Dark@st3.sublime-theme",
+	"theme": "Afterglow-magenta.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_ctrl_keys": true,
