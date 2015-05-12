@@ -1,4 +1,10 @@
 {
+	"added_words":
+	[
+		"blog",
+		"refactored",
+		"D3"
+	],
 	"atomic_save": true,
 	"auto_match_enabled": true,
 	"color_inactive_tabs": true,
@@ -26,13 +32,13 @@
 		"dist"
 	],
 	"font_face": "M+ 1mn Regular",
-	"font_size": 13,
+	"font_size": 18,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Better JavaScript",
-		"Solarized Color Scheme",
-		"CSS"
+		"CSS",
+		"Solarized Color Scheme"
 	],
 	"index_exclude_patterns":
 	[
