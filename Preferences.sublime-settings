@@ -1,6 +1,7 @@
 {
 	"added_words":
 	[
+		"CO+LAB",
 		"blog",
 		"refactored",
 		"D3"
@@ -61,11 +62,11 @@
 	"scroll_past_end": true,
 	"status_bar_brighter": true,
 	"tab_completion": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"tabs_padding_medium": true,
 	"tabs_small": true,
 	"theme": "Afterglow-magenta.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"vintage_ctrl_keys": true,
 	"word_wrap": "false",
