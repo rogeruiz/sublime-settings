@@ -57,7 +57,8 @@
 	[
 		50,
 		72,
-		80
+		80,
+		100
 	],
 	"scroll_past_end": true,
 	"status_bar_brighter": true,
